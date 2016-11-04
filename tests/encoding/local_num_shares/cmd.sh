@@ -1,0 +1,1 @@
+/bin/bash /home/kyle/aws_project/test_best_scheme/test.bash

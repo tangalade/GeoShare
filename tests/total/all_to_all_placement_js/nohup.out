@@ -1,0 +1,1680 @@
+32768: SSS(3,5): Nov 22, 2014 8:11:10 PM com.gargoylesoftware.htmlunit.javascript.StrictErrorReporter runtimeError
+SEVERE: runtimeError: message=[An invalid or illegal selector was specified (selector: '*,:x' error: Invalid selector: *:x).] sourceName=[http://code.jquery.com/jquery-latest.min.js] line=[2] lineSource=[null] lineOffset=[0]
+0
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,Encoding,11219
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,Deleting,4996
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,Uploading,27145
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,Total,44579
+44581ms, 1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,Encoding,9466
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,Deleting,4193
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,Uploading,24537
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,Total,38490
+38498ms, 2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,Encoding,9468
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,Deleting,4676
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,Uploading,23565
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,Total,37973
+37975ms, 3
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,Encoding,9544
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,Deleting,3970
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,Uploading,23037
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,Total,36832
+36837ms, 4
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,Encoding,9494
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,Deleting,3404
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,Uploading,24646
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,Total,37813
+37817ms, 5
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,Encoding,9577
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,Deleting,7109
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,Uploading,32579
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,Total,49601
+49603ms, 6
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,Encoding,9550
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,Deleting,3662
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,Uploading,24219
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,Total,37690
+37696ms, 7
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,Encoding,9492
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,Deleting,4934
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,Uploading,23461
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,Total,38151
+38154ms, 8
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,Encoding,9557
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,Deleting,3249
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,Uploading,24569
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,Total,37664
+37669ms, 9
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,Encoding,9485
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,Deleting,3586
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,Uploading,55687
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,Total,69038
+69040ms, 10
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,Encoding,9540
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,Deleting,3033
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,Uploading,22434
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,Total,35261
+35267ms, 11
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,Encoding,9496
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,Deleting,4248
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,Uploading,22180
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,Total,36242
+36242ms, 12
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,Encoding,9481
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,Deleting,6812
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,Uploading,24313
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,Total,40891
+40897ms, 13
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,Encoding,9550
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,Deleting,4763
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,Uploading,34279
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,Total,48860
+48865ms, 14
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,Encoding,9574
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,Deleting,6269
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,Uploading,39118
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,Total,56024
+56026ms, 15
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,Encoding,9507
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,Deleting,3799
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,Uploading,24381
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,Total,37961
+37971ms, 16
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,Encoding,9571
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,Deleting,8534
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,Uploading,22232
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,Total,40610
+40615ms, 17
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,Encoding,9548
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,Deleting,4206
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,Uploading,22710
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,Total,36751
+36758ms, 18
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,Encoding,9468
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,Deleting,5057
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,Uploading,24242
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,Total,39028
+39034ms, 19
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,Encoding,9546
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,Deleting,5958
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,Uploading,26423
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,Total,42241
+42248ms, 20
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,Encoding,9481
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,Deleting,5912
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,Uploading,24025
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,Total,39705
+39708ms, 21
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,Encoding,9554
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,Deleting,4815
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,Uploading,24801
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,Total,39444
+39451ms, 22
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,Encoding,9476
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,Deleting,5487
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,Uploading,44098
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,Total,59316
+59320ms, 23
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,Encoding,9490
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,Deleting,4994
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,Uploading,31177
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,Total,45924
+45930ms, 24
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,Encoding,9543
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,Deleting,3738
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,Uploading,22470
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,Total,36007
+36011ms, 25
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,Encoding,9480
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,Deleting,10620
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,Uploading,23567
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,Total,43980
+43989ms, 26
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,Encoding,9538
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,Deleting,4636
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,Uploading,22047
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,Total,36484
+36492ms, 27
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,Encoding,9472
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,Deleting,3604
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,Uploading,25300
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,Total,38663
+38669ms, 28
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,Encoding,9477
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,Deleting,3993
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,Uploading,24193
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,Total,37939
+37949ms, 29
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,Encoding,9553
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,Deleting,3205
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,Uploading,22158
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,Total,35204
+35210ms, 30
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,Encoding,9477
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,Deleting,3621
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,Uploading,23184
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,Total,36554
+36554ms, 31
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,Encoding,9568
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,Deleting,3753
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,Uploading,23818
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,Total,37485
+37492ms, 32
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,Encoding,9479
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,Deleting,4473
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,Uploading,25805
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,Total,40062
+40069ms, 33
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,Encoding,9562
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,Deleting,4109
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,Uploading,23645
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,Total,37766
+37776ms, 34
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,Encoding,9479
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,Deleting,3329
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,Uploading,25207
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,Total,38281
+38291ms, 35
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,Encoding,9553
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,Deleting,4774
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,Uploading,31656
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,Total,46279
+46284ms, 36
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-36,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-36,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-36,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-36,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-36,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-36,Encoding,9487
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-36,Deleting,4257
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-36,Uploading,25297
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-36,Total,39305
+39313ms, 37
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-37,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-37,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-37,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-37,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-37,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-37,Encoding,9552
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-37,Deleting,3009
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-37,Uploading,23551
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-37,Total,36365
+36372ms, 38
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-38,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-38,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-38,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-38,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-38,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-38,Encoding,9503
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-38,Deleting,3359
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-38,Uploading,26232
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-38,Total,39353
+39362ms, 39
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-39,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-39,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-39,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-39,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-39,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-39,Encoding,9580
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-39,Deleting,3390
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-39,Uploading,22382
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-39,Total,35616
+35623ms, 40
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-40,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-40,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-40,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-40,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-40,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-40,Encoding,9478
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-40,Deleting,3528
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-40,Uploading,25235
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-40,Total,38499
+38506ms, 41
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-41,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-41,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-41,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-41,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-41,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-41,Encoding,9469
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-41,Deleting,3748
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-41,Uploading,24389
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-41,Total,37859
+37861ms, 42
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-42,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-42,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-42,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-42,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-42,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-42,Encoding,9456
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-42,Deleting,4692
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-42,Uploading,24422
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-42,Total,38822
+38832ms, 43
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-43,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-43,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-43,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-43,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-43,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-43,Encoding,9478
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-43,Deleting,4473
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-43,Uploading,34521
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-43,Total,48740
+48743ms, 44
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-44,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-44,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-44,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-44,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-44,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-44,Encoding,9550
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-44,Deleting,3633
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-44,Uploading,23081
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-44,Total,36529
+36532ms, 45
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-45,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-45,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-45,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-45,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-45,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-45,Encoding,9479
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-45,Deleting,3979
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-45,Uploading,24162
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-45,Total,37903
+37904ms, 46
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-46,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-46,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-46,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-46,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-46,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-46,Encoding,9574
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-46,Deleting,3820
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-46,Uploading,22662
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-46,Total,36380
+36388ms, 47
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-47,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-47,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-47,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-47,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-47,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-47,Encoding,9480
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-47,Deleting,3140
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-47,Uploading,27331
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-47,Total,40251
+40254ms, 48
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-48,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-48,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-48,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-48,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-48,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-48,Encoding,9530
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-48,Deleting,3919
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-48,Uploading,24849
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-48,Total,38557
+38559ms, 49
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-49,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-49,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-49,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-49,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-49,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-49,Encoding,9558
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-49,Deleting,4324
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-49,Uploading,24734
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-49,Total,38881
+38887ms, 50
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-50,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-50,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-50,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-50,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-50,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-50,Encoding,9480
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-50,Deleting,3674
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-50,Uploading,25102
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-50,Total,38557
+38560ms, 51
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-51,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-51,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-51,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-51,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-51,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-51,Encoding,9544
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-51,Deleting,3626
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-51,Uploading,23816
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-51,Total,37245
+37253ms, 52
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-52,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-52,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-52,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-52,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-52,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-52,Encoding,9462
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-52,Deleting,4334
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-52,Uploading,24895
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-52,Total,38973
+38977ms, 53
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-53,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-53,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-53,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-53,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-53,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-53,Encoding,9539
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-53,Deleting,5108
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-53,Uploading,24192
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-53,Total,39897
+39905ms, 54
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-54,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-54,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-54,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-54,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-54,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-54,Encoding,9461
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-54,Deleting,3929
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-54,Uploading,28641
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-54,Total,42321
+42327ms, 55
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-55,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-55,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-55,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-55,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-55,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-55,Encoding,9543
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-55,Deleting,5382
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-55,Uploading,26546
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-55,Total,41771
+41774ms, 56
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-56,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-56,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-56,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-56,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-56,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-56,Encoding,9467
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-56,Deleting,3772
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-56,Uploading,24921
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-56,Total,38420
+38424ms, 57
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-57,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-57,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-57,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-57,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-57,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-57,Encoding,9541
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-57,Deleting,3739
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-57,Uploading,22728
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-57,Total,36276
+36279ms, 58
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-58,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-58,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-58,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-58,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-58,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-58,Encoding,9461
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-58,Deleting,4527
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-58,Uploading,30937
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-58,Total,45192
+45199ms, 59
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-59,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-59,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-59,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-59,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-59,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-59,Encoding,9549
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-59,Deleting,3050
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-59,Uploading,24082
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-59,Total,36953
+36962ms, 60
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-60,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-60,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-60,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-60,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-60,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-60,Encoding,9460
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-60,Deleting,5039
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-60,Uploading,22772
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-60,Total,37533
+37542ms, 61
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-61,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-61,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-61,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-61,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-61,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-61,Encoding,9532
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-61,Deleting,8319
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-61,Uploading,28844
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-61,Total,46961
+46966ms, 62
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-62,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-62,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-62,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-62,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-62,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-62,Encoding,9485
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-62,Deleting,4376
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-62,Uploading,24056
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-62,Total,38181
+38181ms, 63
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-63,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-63,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-63,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-63,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-63,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-63,Encoding,9529
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-63,Deleting,4903
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-63,Uploading,23285
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-63,Total,38015
+38018ms, 64
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-64,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-64,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-64,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-64,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-64,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-64,Encoding,9466
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-64,Deleting,4381
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-64,Uploading,23461
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-64,Total,37570
+37579ms, 65
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-65,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-65,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-65,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-65,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-65,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-65,Encoding,9530
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-65,Deleting,3937
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-65,Uploading,22705
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-65,Total,36538
+36546ms, 66
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-66,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-66,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-66,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-66,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-66,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-66,Encoding,9463
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-66,Deleting,4282
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-66,Uploading,26279
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-66,Total,40380
+40389ms, 67
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-67,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-67,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-67,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-67,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-67,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-67,Encoding,9464
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-67,Deleting,4723
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-67,Uploading,21975
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-67,Total,36451
+36456ms, 68
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-68,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-68,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-68,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-68,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-68,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-68,Encoding,9479
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-68,Deleting,3183
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-68,Uploading,23719
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-68,Total,36663
+36669ms, 69
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-69,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-69,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-69,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-69,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-69,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-69,Encoding,9460
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-69,Deleting,3496
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-69,Uploading,22625
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-69,Total,35839
+35844ms, 70
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-70,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-70,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-70,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-70,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-70,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-70,Encoding,9546
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-70,Deleting,5028
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-70,Uploading,24633
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-70,Total,39504
+39512ms, 71
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-71,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-71,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-71,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-71,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-71,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-71,Encoding,9547
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-71,Deleting,7627
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-71,Uploading,24475
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-71,Total,41902
+41910ms, 72
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-72,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-72,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-72,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-72,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-72,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-72,Encoding,9466
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-72,Deleting,3676
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-72,Uploading,23961
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-72,Total,37401
+37405ms, 73
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-73,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-73,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-73,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-73,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-73,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-73,Encoding,9540
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-73,Deleting,3534
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-73,Uploading,25644
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-73,Total,39018
+39020ms, 74
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-74,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-74,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-74,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-74,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-74,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-74,Encoding,9468
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-74,Deleting,4156
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-74,Uploading,22992
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-74,Total,36881
+36891ms, 75
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-75,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-75,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-75,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-75,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-75,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-75,Encoding,9546
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-75,Deleting,2879
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-75,Uploading,33797
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-75,Total,46475
+46476ms, 76
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-76,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-76,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-76,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-76,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-76,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-76,Encoding,9466
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-76,Deleting,4416
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-76,Uploading,27202
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-76,Total,41354
+41356ms, 77
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-77,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-77,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-77,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-77,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-77,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-77,Encoding,9522
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-77,Deleting,8569
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-77,Uploading,24914
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-77,Total,43258
+43268ms, 78
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-78,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-78,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-78,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-78,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-78,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-78,Encoding,9469
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-78,Deleting,6307
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-78,Uploading,28558
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-78,Total,44605
+44611ms, 79
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-79,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-79,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-79,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-79,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-79,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-79,Encoding,9527
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-79,Deleting,5541
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-79,Uploading,22767
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-79,Total,38097
+38108ms, 80
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-80,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-80,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-80,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-80,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-80,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-80,Encoding,9468
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-80,Deleting,4245
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-80,Uploading,27531
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-80,Total,41552
+41560ms, 81
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-81,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-81,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-81,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-81,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-81,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-81,Encoding,9455
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-81,Deleting,3135
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-81,Uploading,24660
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-81,Total,37535
+37542ms, 82
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-82,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-82,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-82,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-82,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-82,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-82,Encoding,9531
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-82,Deleting,3499
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-82,Uploading,28227
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-82,Total,41593
+41594ms, 83
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-83,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-83,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-83,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-83,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-83,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-83,Encoding,9462
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-83,Deleting,3365
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-83,Uploading,26500
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-83,Total,39588
+39592ms, 84
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-84,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-84,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-84,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-84,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-84,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-84,Encoding,9542
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-84,Deleting,3254
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-84,Uploading,23582
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-84,Total,36643
+36653ms, 85
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-85,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-85,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-85,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-85,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-85,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-85,Encoding,9473
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-85,Deleting,3497
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-85,Uploading,26914
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-85,Total,40142
+40144ms, 86
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-86,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-86,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-86,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-86,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-86,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-86,Encoding,9538
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-86,Deleting,3601
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-86,Uploading,25713
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-86,Total,39113
+39116ms, 87
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-87,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-87,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-87,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-87,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-87,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-87,Encoding,9536
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-87,Deleting,3664
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-87,Uploading,22386
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-87,Total,35846
+35850ms, 88
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-88,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-88,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-88,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-88,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-88,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-88,Encoding,9473
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-88,Deleting,4746
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-88,Uploading,25236
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-88,Total,39739
+39744ms, 89
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-89,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-89,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-89,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-89,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-89,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-89,Encoding,9466
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-89,Deleting,2930
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-89,Uploading,22182
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-89,Total,34843
+34853ms, 90
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-90,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-90,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-90,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-90,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-90,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-90,Encoding,9463
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-90,Deleting,4528
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-90,Uploading,25541
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-90,Total,39793
+39798ms, 91
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-91,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-91,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-91,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-91,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-91,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-91,Encoding,9475
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-91,Deleting,4101
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-91,Uploading,24545
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-91,Total,38576
+38584ms, 92
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-92,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-92,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-92,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-92,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-92,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-92,Encoding,9473
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-92,Deleting,4590
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-92,Uploading,24562
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-92,Total,38914
+38921ms, 93
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-93,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-93,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-93,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-93,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-93,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-93,Encoding,9539
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-93,Deleting,4166
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-93,Uploading,23409
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-93,Total,37366
+37366ms, 94
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-94,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-94,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-94,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-94,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-94,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-94,Encoding,9464
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-94,Deleting,5052
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-94,Uploading,25857
+40628ms, 95
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-94,Total,40628
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-95,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-95,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-95,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-95,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-95,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-95,Encoding,9580
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-95,Deleting,4049
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-95,Uploading,28838
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-95,Total,42728
+42737ms, 96
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-96,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-96,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-96,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-96,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-96,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-96,Encoding,9468
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-96,Deleting,4659
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-96,Uploading,22902
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-96,Total,37278
+37287ms, 97
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-97,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-97,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-97,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-97,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-97,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-97,Encoding,9532
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-97,Deleting,3192
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-97,Uploading,27445
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-97,Total,40482
+40488ms, 98
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-98,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-98,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-98,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-98,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-98,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-98,Encoding,9472
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-98,Deleting,4720
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-98,Uploading,24026
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-98,Total,38481
+38492ms, 99
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-99,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-99,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-99,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-99,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-99,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-99,Encoding,9531
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-99,Deleting,4982
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-99,Uploading,23440
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-99,Total,38204
+38207ms, Nov 22, 2014 9:17:56 PM com.gargoylesoftware.htmlunit.javascript.StrictErrorReporter runtimeError
+SEVERE: runtimeError: message=[An invalid or illegal selector was specified (selector: '*,:x' error: Invalid selector: *:x).] sourceName=[http://code.jquery.com/jquery-latest.min.js] line=[2] lineSource=[null] lineOffset=[0]
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,Downloading,8350
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,Decoding,5133
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,Total,13646
+13655ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,Downloading,9325
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,Decoding,4866
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,Total,14370
+14376ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,Downloading,6993
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,Decoding,4818
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,Total,11984
+11989ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,Downloading,5291
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,Decoding,4900
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,Total,10353
+10359ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,Downloading,10309
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,Decoding,4819
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,Total,15289
+15298ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,Downloading,8043
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,Decoding,4799
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,Total,13004
+13012ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,Downloading,8663
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,Decoding,4917
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,Total,13741
+13742ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,Downloading,7963
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,Decoding,4792
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,Total,12916
+12919ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,Downloading,8828
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,Decoding,4780
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,Total,13781
+13785ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,Downloading,8809
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,Decoding,4794
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,Total,13763
+13765ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,Downloading,7409
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,Decoding,4918
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,Total,12488
+12488ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,Downloading,9438
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,Decoding,4783
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,Total,14383
+14390ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,Downloading,8901
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,Decoding,4797
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,Total,13859
+13864ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,Downloading,8772
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,Decoding,4771
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,Total,13704
+13709ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,Downloading,6910
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,Decoding,4804
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,Total,11876
+11887ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,Downloading,6784
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,Decoding,4802
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,Total,11746
+11748ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,Downloading,10230
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,Decoding,4771
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,Total,15164
+15172ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,Downloading,9494
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,Decoding,4936
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,Total,14593
+14596ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,Downloading,5112
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,Decoding,4778
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,Total,10051
+10054ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,Downloading,6800
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,Decoding,4792
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,Total,11761
+11770ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,Downloading,7172
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,Decoding,4790
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,Total,12124
+12125ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,Downloading,6735
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,Decoding,4891
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,Total,11788
+11798ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,Downloading,10988
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,Decoding,4791
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,Total,15939
+15949ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,Downloading,8105
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,Decoding,4782
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,Total,13047
+13053ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,Downloading,8149
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,Decoding,4794
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,Total,13113
+13123ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,Downloading,8483
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,Decoding,4929
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,Total,13573
+13582ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,Downloading,7041
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,Decoding,4774
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,Total,11977
+11977ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,Downloading,6469
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,Decoding,4823
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,Total,11453
+11456ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,Downloading,9368
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,Decoding,4771
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,Total,14401
+14407ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,Downloading,6631
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,Decoding,4940
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,Total,11737
+11745ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,Downloading,6816
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,Decoding,4794
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,Total,11792
+11802ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,Downloading,12769
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,Decoding,4763
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,Total,17692
+17695ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,Downloading,8319
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,Decoding,4791
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,Total,13272
+13279ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,Downloading,6751
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,Decoding,4770
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,Total,11683
+11691ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,Downloading,12279
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,Decoding,4910
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,Total,17350
+17355ms, Nov 22, 2014 9:25:41 PM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://aws-test-sae1.s3.amazonaws.com:443: The target server failed to respond
+Nov 22, 2014 9:25:41 PM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {s}->https://aws-test-sae1.s3.amazonaws.com:443
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,Downloading,13011
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,Decoding,4805
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,Total,17978
+17984ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-36,Downloading,5017
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-36,Decoding,4765
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-36,Total,9946
+9955ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-37,Downloading,5969
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-37,Decoding,4789
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-37,Total,10918
+10919ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-38,Downloading,5767
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-38,Decoding,4923
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-38,Total,10851
+10852ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-39,Downloading,7589
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-39,Decoding,4820
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-39,Total,12572
+12575ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-40,Downloading,8312
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-40,Decoding,4823
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-40,Total,13303
+13313ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-41,Downloading,6444
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-41,Decoding,4802
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-41,Total,11407
+11411ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-42,Downloading,7411
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-42,Decoding,4833
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-42,Total,12406
+12412ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-43,Downloading,7313
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-43,Decoding,4927
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-43,Total,12400
+12400ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-44,Downloading,7433
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-44,Decoding,4819
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-44,Total,12412
+12418ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-45,Downloading,6033
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-45,Decoding,4788
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-45,Total,10984
+10994ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-46,Downloading,8601
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-46,Decoding,4806
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-46,Total,13568
+13571ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-47,Downloading,6852
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-47,Decoding,4828
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-47,Total,11843
+11851ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-48,Downloading,8057
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-48,Decoding,4958
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-48,Total,13182
+13189ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-49,Downloading,7362
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-49,Decoding,4818
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-49,Total,12341
+12350ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-50,Downloading,5298
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-50,Decoding,4822
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-50,Total,10284
+10285ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-51,Downloading,8245
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-51,Decoding,4816
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-51,Total,13221
+13224ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-52,Downloading,7037
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-52,Decoding,4841
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-52,Total,12052
+12061ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-53,Downloading,13460
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-53,Decoding,4927
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-53,Total,18552
+18556ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-54,Downloading,9393
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-54,Decoding,4815
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-54,Total,14370
+14375ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-55,Downloading,9041
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-55,Decoding,4844
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-55,Total,14047
+14053ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-56,Downloading,7878
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-56,Decoding,4792
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-56,Total,12833
+12840ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-57,Downloading,8659
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-57,Decoding,4835
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-57,Total,13662
+13664ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-58,Downloading,5864
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-58,Decoding,4953
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-58,Total,10998
+11005ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-59,Downloading,8739
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-59,Decoding,4835
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-59,Total,13737
+13745ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-60,Downloading,7793
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-60,Decoding,4822
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-60,Total,12779
+12788ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-61,Downloading,6810
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-61,Decoding,4803
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-61,Total,11774
+11779ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-62,Downloading,8508
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-62,Decoding,4820
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-62,Total,13489
+13497ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-63,Downloading,9063
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-63,Decoding,4795
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-63,Total,14019
+14019ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-64,Downloading,8815
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-64,Decoding,4824
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-64,Total,13803
+13811ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-65,Downloading,6970
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-65,Decoding,4815
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-65,Total,11954
+11958ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-66,Downloading,8977
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-66,Decoding,4791
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-66,Total,13929
+13932ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-67,Downloading,27891
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-67,Decoding,4832
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-67,Total,32883
+32892ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-68,Downloading,7440
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-68,Decoding,4957
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-68,Total,12559
+12563ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-69,Downloading,18375
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-69,Decoding,4814
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-69,Total,23354
+23360ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-70,Downloading,15550
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-70,Decoding,4837
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-70,Total,20548
+20551ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-71,Downloading,6434
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-71,Decoding,4797
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-71,Total,11468
+11473ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-72,Downloading,9479
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-72,Decoding,4831
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-72,Total,14470
+14475ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-73,Downloading,9673
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-73,Decoding,4797
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-73,Total,14631
+14636ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-74,Downloading,6288
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-74,Decoding,4819
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-74,Total,11270
+11280ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-75,Downloading,7125
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-75,Decoding,4836
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-75,Total,12121
+12127ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-76,Downloading,11314
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-76,Decoding,4786
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-76,Total,16262
+16268ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-77,Downloading,11964
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-77,Decoding,4817
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-77,Total,16941
+16949ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-78,Downloading,13202
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-78,Decoding,4808
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-78,Total,18171
+18173ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-79,Downloading,9376
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-79,Decoding,4837
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-79,Total,14375
+14382ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-80,Downloading,7066
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-80,Decoding,4812
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-80,Total,12038
+12046ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-81,Downloading,10197
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-81,Decoding,4804
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-81,Total,15161
+15171ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-82,Downloading,11422
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-82,Decoding,4833
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-82,Total,16438
+16444ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-83,Downloading,8350
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-83,Decoding,4804
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-83,Total,13322
+13330ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-84,Downloading,9116
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-84,Decoding,4819
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-84,Total,14096
+14104ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-85,Downloading,18254
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-85,Decoding,4820
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-85,Total,23234
+23237ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-86,Downloading,9313
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-86,Decoding,4800
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-86,Total,14275
+14277ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-87,Downloading,8078
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-87,Decoding,4820
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-87,Total,14346
+14350ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-88,Downloading,6419
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-88,Decoding,4806
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-88,Total,11384
+11386ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-89,Downloading,17822
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-89,Decoding,4813
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-89,Total,22798
+22806ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-90,Downloading,9624
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-90,Decoding,4823
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-90,Total,14608
+14616ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-91,Downloading,13014
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-91,Decoding,4809
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-91,Total,17983
+17987ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-92,Downloading,23400
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-92,Decoding,4834
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-92,Total,28394
+28396ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-93,Downloading,21850
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-93,Decoding,4817
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-93,Total,26829
+26838ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-94,Downloading,7738
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-94,Decoding,4808
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-94,Total,12705
+12716ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-95,Downloading,8280
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-95,Decoding,4815
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-95,Total,13255
+13261ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-96,Downloading,8486
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-96,Decoding,4809
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-96,Total,13455
+13456ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-97,Downloading,6944
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-97,Decoding,4829
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-97,Total,11934
+11942ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-98,Downloading,6444
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-98,Decoding,4978
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-98,Total,11582
+11586ms, GET,SSS,3,5,32768,my-bucket,my-object-SSS35-99,Downloading,17325
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-99,Decoding,4822
+GET,SSS,3,5,32768,my-bucket,my-object-SSS35-99,Total,22307
+22308ms, 3699.12user 6.42system 1:30:37elapsed 68%CPU (0avgtext+0avgdata 939524maxresident)k
+0inputs+10160outputs (0major+293408minor)pagefaults 0swaps
+32768: SSS(3,5): Nov 22, 2014 10:13:12 PM com.gargoylesoftware.htmlunit.javascript.StrictErrorReporter runtimeError
+SEVERE: runtimeError: message=[An invalid or illegal selector was specified (selector: '*,:x' error: Invalid selector: *:x).] sourceName=[http://code.jquery.com/jquery-latest.min.js] line=[2] lineSource=[null] lineOffset=[0]
+0
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,Encoding,12112
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,Deleting,6405
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,Uploading,28048
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-0,Total,47890
+47895ms, 1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,Encoding,9674
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,Deleting,4346
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,Uploading,23642
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-1,Total,38555
+38562ms, 2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,Encoding,9860
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,Deleting,4068
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,Uploading,23999
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-2,Total,38189
+38191ms, 3
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,Encoding,9748
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,Deleting,4410
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,Uploading,24873
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-3,Total,39317
+39327ms, 4
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,Encoding,9678
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,Deleting,5318
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,Uploading,23978
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-4,Total,39266
+39271ms, 5
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,Encoding,9785
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,Deleting,5566
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,Uploading,23560
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-5,Total,39230
+39238ms, 6
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,Encoding,9770
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,Deleting,4554
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,Uploading,28778
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-6,Total,43367
+43371ms, 7
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,Encoding,9704
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,Deleting,6091
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,Uploading,28232
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-7,Total,44301
+44304ms, 8
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,Encoding,9762
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,Deleting,4830
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,Uploading,26099
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-8,Total,41007
+41010ms, 9
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,Encoding,9691
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,Deleting,4695
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,Uploading,23730
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-9,Total,38387
+38397ms, 10
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,Encoding,9760
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,Deleting,5044
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,Uploading,22752
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-10,Total,37822
+37830ms, 11
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,Encoding,9690
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,Deleting,3044
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,Uploading,24378
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-11,Total,37380
+37384ms, 12
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,Encoding,9736
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,Deleting,4047
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,Uploading,25968
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-12,Total,40024
+40025ms, 13
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,Encoding,9767
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,Deleting,4370
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,Uploading,24443
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-13,Total,38853
+38856ms, 14
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,Encoding,9700
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,Deleting,4393
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,Uploading,22591
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-14,Total,36953
+36955ms, 15
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,Encoding,9750
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,Deleting,4982
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,Uploading,24325
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-15,Total,39332
+39337ms, 16
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,Encoding,9681
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,Deleting,3760
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,Uploading,22764
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-16,Total,36462
+36463ms, 17
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,Encoding,9780
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,Deleting,4679
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,Uploading,25000
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-17,Total,39746
+39749ms, 18
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,Encoding,9690
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,Deleting,4407
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,Uploading,24647
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-18,Total,39049
+39052ms, 19
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,Encoding,9765
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,Deleting,5283
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,Uploading,22863
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-19,Total,38219
+38226ms, 20
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,Encoding,9689
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,Deleting,5392
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,Uploading,26284
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-20,Total,41621
+41625ms, 21
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,Encoding,9703
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,Deleting,7881
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,Uploading,23878
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-21,Total,41741
+41749ms, 22
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,Encoding,9693
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,Deleting,3610
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,Uploading,25113
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-22,Total,38686
+38691ms, 23
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,Encoding,9689
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,Deleting,3139
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,Uploading,23802
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-23,Total,36929
+36931ms, 24
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,Encoding,9698
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,Deleting,4932
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,Uploading,24056
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-24,Total,38950
+38953ms, 25
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,Encoding,9913
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,Deleting,3642
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,Uploading,23767
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-25,Total,37602
+37604ms, 26
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,Encoding,9682
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,Deleting,3379
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,Uploading,23638
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-26,Total,36953
+36957ms, 27
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,Encoding,9684
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,Deleting,3999
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,Uploading,24529
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-27,Total,38474
+38481ms, 28
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,Encoding,9681
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,Deleting,5183
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,Uploading,24932
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-28,Total,40112
+40117ms, 29
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,Encoding,9686
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,Deleting,4728
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,Uploading,32504
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-29,Total,47174
+47182ms, 30
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,use1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,Encoding,9690
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,Deleting,3851
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,Uploading,22754
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-30,Total,36562
+36565ms, 31
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,Encoding,9874
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,Deleting,4271
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,Uploading,23964
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-31,Total,38380
+38382ms, 32
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,Encoding,9683
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,Deleting,5024
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,Uploading,38229
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-32,Total,53191
+53199ms, 33
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,Encoding,9699
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,Deleting,4294
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,Uploading,29707
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-33,Total,43987
+43998ms, 34
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,sae1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,Encoding,9761
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,Deleting,4195
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,Uploading,25903
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-34,Total,40123
+40133ms, 35
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,usw2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,apse1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,euw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,Encoding,9706
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,Deleting,5396
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,Uploading,24598
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-35,Total,39961
+39969ms, 36
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-36,apse2
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-36,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-36,usw1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-36,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-36,apne1
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-36,Encoding,9760
+SET,SSS,3,5,32768,my-bucket,my-object-SSS35-36,Deleting,5545

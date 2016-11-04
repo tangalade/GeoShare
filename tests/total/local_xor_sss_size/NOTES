@@ -1,0 +1,5 @@
+Compile
+g++ clock.c encode.cpp s3.c test.cpp -ls3 -lcryptopp -std=c++0x -o test
+
+Observations
+SSS(3,3) encoding time is less than XOR(3,3) encoding time for <= 64K, and increases linearly with the file size (i.e. graph appears logarithmic since tested file sizes increase logarithmicly) at a much higher rate than XOR.

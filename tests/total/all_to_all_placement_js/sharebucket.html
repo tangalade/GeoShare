@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Share Bucket</title>
+    <link rel="stylesheet" type="text/css" href="view.css" media="all">
+    <script type="text/javascript" src="view.js"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="menu.css">
+    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+  </head>
+  <body id="main_body" >
+	
+      <div id='cssmenu'>
+	<ul>
+	  <li class='normal'><a href='upload_real.html'><span>Upload</span></a></li>
+	  <li class='normal'><a href='download_real.html'><span>Download</span></a></li>
+	  <li class='active'><a href='sharebucket.html'><span>Share</span></a></li>
+	  <li class='minor'><a href='changepassword.html'><span>Change password</span></a></li>
+	  <li class='minor'><a href='createaccount.html'><span>Create account</span></a></li>
+	</ul>
+      </div>
+      <div id="form_container">
+
+	<h2>Share a bucket</h2>
+	<form id="form_896271" class="appnitro" enctype="multipart/form-data" method="post" action="" name="main_form">
+	  <ul >
+	    <li id="user_name_in_li">
+	      <label id="user_name_in_label" class="description" for="user_name_in">User name</label>
+	      <div>
+		<input id="user_name_in" name="user_name_in" class="element text medium" type="text" maxlength="255" placeholder="<user name>" autofocus /> 
+	      </div>
+	      <p class="guidelines" id="user_name_guide"><small>Safe characters: [0-9a-zA-Z], -, and _</small></p> 
+	    </li>
+	    <li id="password_in_li">
+	      <label id="password_in_label" class="description" for="password_in">Password</label>
+	      <div>
+		<input id="password_in" name="password_in" class="element text medium" type="password" maxlength="255" placeholder="<password>" /> 
+	      </div>
+	      <p class="guidelines" id="user_name_guide"><small>Safe characters: [0-9a-zA-Z], -, and _</small></p> 
+	    </li>
+
+	    <li>
+	      <label id="bucket_name_in_label" class="description" for="bucket_name_in">Bucket name</label>
+	      <div>
+		<input id="bucket_name_in" name="bucket_name_in" class="element text medium" type="text" maxlength="255" placeholder="<bucket name>" /> 
+	      </div>
+	      <p class="guidelines" id="bucket_name_guide"><small>Safe characters: [0-9a-zA-Z], !, -, _, ., *, ', (, and )</small></p> 
+	    </li>
+
+	    <li>
+	      <label id="shared_user_name_in_label" class="description" for="shared_user_name_in">Shared user name</label>
+	      <div>
+		<input id="shared_user_name_in" name="shared_user_name_in" class="element text medium" type="text" maxlength="255" placeholder="<shared user name>" /> 
+	      </div>
+	      <p class="guidelines" id="obj_name_guide"><small>The user you would like to share this bucket with</small></p> 
+	    </li>
+
+	    <li class="buttons">
+	      <div style="float:left; position:relative;">
+		<input class="button_text" type="button" value="Share"
+		       id="submit_button" name="submit_button" />
+	      </div>
+	      <div id="submit_status" style="float:left; position:relative; margin-top:5px">
+	      </div>
+	    </li>
+	    <li>
+	      <div id="js_status_window"></div>
+	    </li>
+	  </ul>
+	</form>	
+      </div>
+	<script src="inc/aes.js"></script>
+	<script src="inc/sha1.js"></script>
+	<script src="inc/secrets.min.js"></script>
+	<script src="inc/aws-sdk.js"></script>
+	<script src="encrypt.js"></script>
+	<script src="share.js"></script>
+	<script src="submit.js"></script>
+	<script src="sharebucket.js"></script>
+      </body>
+    </html>

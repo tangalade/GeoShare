@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Upload Data</title>
+    <link rel="stylesheet" type="text/css" href="view.css" media="all">
+    <script type="text/javascript" src="view.js"></script>
+
+    <!-- stops the enter key from submitting when in text field -->
+    <script type="text/javascript"> 
+      function stopRKey(evt) { 
+      var evt = (evt) ? evt : ((event) ? event : null); 
+      var node = (evt.target) ? evt.target : ((evt.srcElement) ? evt.srcElement : null); 
+      if ((evt.keyCode == 13) && (node.type=="text"))  {return false;} 
+      } 
+
+      document.onkeypress = stopRKey; 
+    </script>    
+
+  </head>
+  <body id="main_body" >
+	
+    <img id="top" src="top.png" alt="">
+      <div id="form_container">
+	
+	<h1><a>Upload Data</a></h1>
+	<form id="form_896271" class="appnitro" enctype="multipart/form-data" method="post" action="" name="upload">
+	  <div class="form_description">
+	    <h2>Upload Data</h2>
+	    <p>Upload and encode data to service</p>
+	  </div>						
+	  <ul >
+	    
+	    <li id="obj_name_li" >
+	      <label id="obj_name_label" class="description" for="element_2">Object name</label>
+	      <div>
+		<input id="obj_name_in" name="obj_name_in" class="element text medium" type="text" maxlength="255" value="random name" placeholder="<object name>"/> 
+	      </div><p class="guidelines" id="obj_name_guide"><small>Safe characters: [0-9a-zA-Z], !, -, _, ., *, ', (, and )</small></p> 
+	    </li>
+	    <li id="li_4" >
+	      <label class="description" for="element_4">Regions to Avoid</label>
+	      <span>
+		<div style="float:left; position:relative; margin-right:40px">
+		  <input id="reg_use1" name="reg_use1" class="element checkbox" type="checkbox" value="1" />
+		  <label id="element_4_1_label" class="choice" for="element_4_1">use1</label>
+		  <input id="reg_usw1" name="reg_usw1" class="element checkbox" type="checkbox" value="1" />
+		  <label id="element_4_2_label" class="choice" for="element_4_2">usw1</label>
+		  <input id="reg_usw2" name="reg_usw2" class="element checkbox" type="checkbox" value="1" />
+		  <label id="element_4_3_label" class="choice" for="element_4_3">usw2</label>
+		  <input id="reg_euw1" name="reg_euw1" class="element checkbox" type="checkbox" value="1" />
+		  <label id="element_4_4_label" class="choice" for="element_4_4">euw1</label>
+		</div>
+		<div style="float:right; position:relative;">
+		  <input id="reg_sae1" name="reg_sae1" class="element checkbox" type="checkbox" value="1" />
+		  <label id="element_4_5_label" class="choice" for="element_4_5">sae1</label>
+		  <input id="reg_apne1" name="reg_apne1" class="element checkbox" type="checkbox" value="1" />
+		  <label id="element_4_6_label" class="choice" for="element_4_6">apne1</label>
+		  <input id="reg_apse1" name="reg_apse1" class="element checkbox" type="checkbox" value="1" />
+		  <label id="element_4_7_label" class="choice" for="element_4_7">apse1</label>
+		  <input id="reg_apse2" name="reg_apse2" class="element checkbox" type="checkbox" value="1" />
+		  <label id="element_4_8_label" class="choice" for="element_4_8">apse2</label>
+		</div>
+	      </span><p class="guidelines" id="guide_4"><small>Mark any regions you do not want your object placed in.</small></p> 
+	    </li>
+	    <li id="li_1" >
+	      <label class="description" for="element_1">Upload your data</label>
+	      <div>
+		<input id="file" name="file" class="element file" type="file" value="/home/kyle/js_project/hello" autofocus /> 
+	      </div><p class="guidelines" id="guide_5"><small>Choose the file you are uploading as this object.</small></p>   
+	    </li>
+	    <li id="encoding_scheme_li" >
+	      <label id="encoding_scheme_label" class="description" for="element_3">Encoding Scheme</label>
+	      <div>
+		<select class="element select medium" id="encoding_in" name="encoding_in"> 
+		  <option value="NONE" selected="selected">None</option>
+		  <option value="AES" >AES</option>
+		  <option value="SSS" >Shamir's Secret Sharing</option>
+		  <option value="XOR" >XOR Secret Sharing</option>
+		</select>
+	      </div>
+	      <p class="guidelines" id="guide_3">
+		<small id="encoding_scheme_guide">Encoding limits the cloud service or government requisitions from compromising your data.</small>
+	      </p>
+	    </li>
+	    <li id="encoding_params_li">
+	      <p class="guidelines" id="guide_5">
+		<small id="encoding_params_guide"></small>
+	      </p>
+	      <div style="float:left; position:relative; margin-right:40px">
+		<label id="threshold_in_label" class="description" for="element_5_1">Threshold</label>
+		<input id="threshold_in" name="threshold_in" class="element text single" type="text" length="2" value="3" /> 
+	      </div>
+	      <div style="float:left; position:relative;">
+		<label id="num_shares_in_label" class="description" for="element_5_1">Number of shares</label>
+		<input id="num_shares_in" name="num_shares_in" class="element text single" type="text" length="2" value="5" /> 
+	      </div>
+	    </li>
+	    
+	    <li class="buttons">
+	      <input type="hidden" name="form_id" value="896271" />
+	      
+	      <input id="saveForm" class="button_text" type="button" name="submit" value="Upload" />
+	      
+	    </li>
+	    <li id="li_6">
+	      <div id="js_status_window"></div>
+	    </li>
+	  </ul>
+	</form>	
+	<div id="footer">
+	  Generated by <a href="http://www.phpform.org">pForm</a>
+	</div>
+      </div>
+      <img id="bottom" src="bottom.png" alt="">
+	<script src="/home/kyle/js_project/inc/aes.js"></script>
+	<script src="/home/kyle/js_project/inc/secrets.min.js"></script>
+	<script src="/home/kyle/js_project/inc/aws-sdk.js"></script>
+	<script src="file:///home/kyle/js_project/aes.js"></script>
+	<script src="file:///home/kyle/js_project/share.js"></script>
+	<script src="file:///home/kyle/js_project/submit.js"></script>
+<!--            <script>
+		changeDisplayState = function (id) {
+		var d = document.getElementById(id),
+		e = document.getElementById('saveForm');
+		
+		var plaintext = d.innerHTML;
+		d.innerHTML = 'Ha, I changed it';
+		e.value = 'Submitted';
+		
+		var encrypted = CryptoJS.AES.encrypt(plaintext, "Secret Passphrase");
+		alert(encrypted);
+		var decrypted = CryptoJS.AES.decrypt(encrypted, "Secret Passphrase");
+		alert(plaintext.concat(" ?= ",decrypted.toString(CryptoJS.enc.Utf8)));
+		};
+		document.getElementById('saveForm').onclick = function () {
+		changeDisplayState('element_4_2_label');
+		return false;
+		};
+		</script>
+-->
+      </body>
+    </html>

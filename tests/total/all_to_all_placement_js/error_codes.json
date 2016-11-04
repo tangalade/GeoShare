@@ -1,0 +1,13 @@
+{
+  0  : "Success",
+  1  : "Invalid username/password combination",
+  10 : "Username does not exist",
+  2  : "User does not have access",
+  3  : "Object already exists",
+  4  : "Object does not exist",
+  5  : "Username already exists",
+  6  : "Shared user already has access",
+  7  : "Shared user does not exist",
+  8  : "Region does not exist",
+  9  : "Bucket name already exists"
+}

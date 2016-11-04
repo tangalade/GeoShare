@@ -1,0 +1,1 @@
+g++ test.cpp s3.c encode.cpp clock.c -o test -lcryptopp -ls3 -std=c++0x
